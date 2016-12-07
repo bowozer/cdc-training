@@ -8,7 +8,7 @@ namespace ConsoleApplication
         {
             Console.WriteLine("Hey! What's your name?");
             string name = Console.ReadLine();
-            Console.WriteLine("Hello {0}, welcome to this app!", name);
+            Console.WriteLine("Welcome to this app, {0}!", name);
         }
     }
 }
